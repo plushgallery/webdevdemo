@@ -1,0 +1,9 @@
+/*! These are custom styles which extend functionality of the bootstrap stylesheet 
+ */
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('../img/boot_lg.jpg');
+  background-size: cover;
+}
